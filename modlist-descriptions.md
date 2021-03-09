@@ -165,10 +165,10 @@ Serenity 2 is a Skyrim SE modlist that aims to bring a fresh Requiem Experience 
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 [Requiem](https://www.nexusmods.com/skyrim/mods/19281)  
 [Requiem - Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)  
-[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691) 
-[Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
-[Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
-[Requiem - Unarmed Combat Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
+[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)  
+[Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)  
+[Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588)  
+[Requiem - Unarmed Combat Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/42541)  
 
 ***
 
